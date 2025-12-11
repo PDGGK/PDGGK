@@ -1,6 +1,6 @@
 # Hi, I'm Jason (Zihan Dai) 👋
 
-Master's student @ University of Melbourne | AI & Data Science
+Bachelor's student @ University of Melbourne | CS & AI & Data Science
 
 Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engineering**.
 
