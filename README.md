@@ -31,7 +31,7 @@ Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engin
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [OOSD-project](https://github.com/PDGGK/OOSD-project) | Shadow Donkey Kong: 2D arcade game with AI enemy system | Java, Bagel Engine |
+| [OOSD-project](https://github.com/PDGGK/OOSD-project) | Shadow Donkey Kong: 2D arcade game with enemy system | Java, Bagel Engine |
 | [ads-project2](https://github.com/PDGGK/ads-project2) | Algorithm & data structure implementations | C |
 
 ---
