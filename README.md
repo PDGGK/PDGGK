@@ -46,6 +46,4 @@ Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engin
 
 **Tools:** Docker · Git · Jupyter
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PDGGK&show_icons=true&theme=default&hide_border=true&count_private=true)
