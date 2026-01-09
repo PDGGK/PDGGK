@@ -10,7 +10,7 @@ Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engin
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [LinkAlign](https://github.com/PDGGK/LinkAlign) | LLM alignment research toolkit | Python, PyTorch |
+| [FusionSQL](https://github.com/PDGGK/FusionSQL) | Text-to-SQL with BGE-M3 fusion retrieval | Python, BGE-M3, Qwen |
 | [text2sql_research](https://github.com/PDGGK/text2sql_research) | Text-to-SQL with graph structure & RAG | Python, LangChain, Graph DB |
 | [LLM-Research-Internship-2025](https://github.com/PDGGK/LLM-Research-Internship-2025) | Technical notes on LLM alignment & prompt engineering | Markdown |
 | [2024_ai_intership_log](https://github.com/PDGGK/2024_ai_intership_log) | AI system development: multimodal ad review with ReAct architecture | Python, FastAPI, LangChain, Docker |
