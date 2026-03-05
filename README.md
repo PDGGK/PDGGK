@@ -36,6 +36,19 @@ Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engin
 
 ---
 
+## 🌍 Open Source Contributions
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [apache/beam](https://github.com/apache/beam) | Distributed data processing framework | 3 PRs merged |
+| [apache/shardingsphere](https://github.com/apache/shardingsphere) | Database middleware | 2 PRs merged |
+| [apache/iceberg](https://github.com/apache/iceberg) | Open table format | 1 PR merged |
+| [apache/iotdb](https://github.com/apache/iotdb) | Time-series database | PRs in review |
+| [apache/seatunnel](https://github.com/apache/seatunnel) | Data integration platform | PRs in review |
+| [opencv/opencv](https://github.com/opencv/opencv) | Computer vision library | 1 PR merged |
+
+---
+
 ## Tech Stack
 
 **Languages:** Python · TypeScript · Java · C · SQL
@@ -45,5 +58,3 @@ Currently focusing on **LLM alignment**, **Text-to-SQL**, and **AI systems engin
 **Backend:** FastAPI · Node.js · MySQL
 
 **Tools:** Docker · Git · Jupyter
-
-
